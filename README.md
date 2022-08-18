@@ -1,4 +1,4 @@
-## Easy Corp
+# Easy Corp
 
 Repositório criado para publicação de trabalhos universitários criados em equipe por:
 
